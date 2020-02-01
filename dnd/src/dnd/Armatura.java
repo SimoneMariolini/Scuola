@@ -35,7 +35,7 @@ public class Armatura {
 			NCA = "Corazza di scaglie";			
 			break;
 		case 5:
-			NCA = "Corazza di piasetre";
+			NCA = "Corazza di piastre";
 			break;
 		case 6:
 			NCA = "Mezza Armatura";
